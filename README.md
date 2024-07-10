@@ -6,12 +6,12 @@ Estos comando se corren una sola vez al inicio del proyecto:
 
 Crear Entorno Python por primera vez
 ```bash
-virtualenv rent_cars-env
+virtualenv rent-cars-env
 ```
 
 Iniciar el Entorno
 ```bash
-source rent_cars-env/bin/activate
+source rent-cars-env/bin/activate
 ```
 
 Instalar librerías requeridas del archivo requirementes.txt
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Inicializar el Entorno de Desarrollo
 Iniciar el entorno
 ```bash
-source rent_cars-env/bin/activate
+source rent-cars-env/bin/activate
 ```
 
 Detener el entorno
