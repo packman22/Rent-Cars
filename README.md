@@ -1,5 +1,3 @@
-# Integración de Tenebit CRM con soluciones ERP
-
 Con esta aplicación se utiliza las capacidades y servicios que brinda Tableau Server y Tableau Prep como herramienta de ETL (Extract, Transform and Load) para inyectar información a Tenebit CRM.
 Las integraciones con aplicaciones tipo ERP, por lo general incluye la información de Clientes, Facturas e Inventarios Valorizados.
 
