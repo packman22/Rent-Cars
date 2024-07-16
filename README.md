@@ -6,7 +6,7 @@ Estos comando se corren una sola vez al inicio del proyecto:
 
 Crear Entorno Python por primera vez
 ```bash
-virtualenv rent-cars-env
+virtualenv python3.12 -m venv rent-cars-env   
 ```
 
 Iniciar el Entorno
